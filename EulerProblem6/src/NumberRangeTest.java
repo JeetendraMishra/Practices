@@ -5,7 +5,8 @@ import static junit.framework.Assert.assertEquals;
 public class NumberRangeTest {
 
      @Test
-     public void testCheckTheDifference(){
+     public void testDifferenceOfSquareOfSumsAndSumOfSquares(){
+         
         assertEquals(25164150, new NumberRange(1,100).differenceOfSquareOfSumsAndSumOfSquares());
      }
 }

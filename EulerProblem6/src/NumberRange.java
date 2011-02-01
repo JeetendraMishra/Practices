@@ -2,6 +2,7 @@ public class NumberRange {
 
     int start;
     int limit;
+    
     NumberRange(int start, int limit){
 
         this.start = start;

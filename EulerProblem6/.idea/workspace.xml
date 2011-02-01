@@ -60,19 +60,19 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NumberRange.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="NumberRange.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NumberRange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="24" selection-start="418" selection-end="418" vertical-scroll-proportion="0.6938326">
+            <state line="4" column="4" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumberRangeTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="NumberRangeTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/NumberRangeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="29" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0">
+            <state line="9" column="23" selection-start="216" selection-end="216" vertical-scroll-proportion="0.2973568">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,8 +92,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/EulerProblem6.java" />
         <option value="$PROJECT_DIR$/src/EulerProblem6Test.java" />
-        <option value="$PROJECT_DIR$/src/NumberRange.java" />
         <option value="$PROJECT_DIR$/src/NumberRangeTest.java" />
+        <option value="$PROJECT_DIR$/src/NumberRange.java" />
       </list>
     </option>
   </component>
@@ -181,7 +181,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
-  <component name="RunManager" selected="JUnit.NumberRangeTest.testCheckTheDifference">
+  <component name="RunManager" selected="JUnit.NumberRangeTest.testDifferenceOfSquareOfSumsAndSumOfSquares">
     <configuration default="false" name="NumberRangeTest.testShouldCheckTheDifference" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="snapshooter" />
       <module name="EulerProblem6" />
@@ -212,6 +212,28 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="NumberRangeTest" />
       <option name="METHOD_NAME" value="testCheckTheDifference" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="NumberRangeTest.testDifferenceOfSquareOfSumsAndSumOfSquares" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="snapshooter" />
+      <module name="EulerProblem6" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumberRangeTest" />
+      <option name="METHOD_NAME" value="testDifferenceOfSquareOfSumsAndSumOfSquares" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -334,9 +356,10 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JUnit.EulerProblem6Test.testShouldCheckTheDifference" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.EulerProblem6Test.testCheckTheDifference" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.NumberRangeTest.testDifferenceOfSquareOfSumsAndSumOfSquares" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -420,19 +443,19 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/NumberRangeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/NumberRange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="29" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="4" column="4" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumberRange.java">
+    <entry file="file://$PROJECT_DIR$/src/NumberRangeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="24" selection-start="418" selection-end="418" vertical-scroll-proportion="0.6938326">
-          <folding />
+        <state line="9" column="23" selection-start="216" selection-end="216" vertical-scroll-proportion="0.2973568">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
