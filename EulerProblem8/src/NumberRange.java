@@ -1,5 +1,4 @@
 import java.util.HashSet;
-import java.util.Iterator;
 import java.util.Set;
 
 public class NumberRange {
@@ -13,9 +12,10 @@ public class NumberRange {
 
     public int findLargestProductofNConsecutiveDigit(int totalNumbers){
 
-        Set<Integer> productSet = new HashSet<Integer>();
+        // To find out largest product of N consecutive digits from the Array
 
-        // To extract product of consecutive digits from the Array
+        Set<Integer> productSet = new HashSet<Integer>();
+        int largestProduct = 0;
 
         for(int i=0; i<=(digits.length-totalNumbers); i++){
             
@@ -26,22 +26,10 @@ public class NumberRange {
                     product *= digits[j];
             }
 
-            productSet.add(product);
-        }
+            if(product > largestProduct){
 
-        //To findout greatest product value
-
-        Iterator itr = productSet.iterator();
-        int largestProduct = 0;
-
-        while(itr.hasNext()){
-
-            int max = (Integer)itr.next();
-            if(max>largestProduct){
-
-                largestProduct = max;
+                largestProduct = product;
             }
-
         }
 
         return largestProduct;
