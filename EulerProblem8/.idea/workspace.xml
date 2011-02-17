@@ -60,19 +60,19 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NumberRangeTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="NumberRangeTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/NumberRangeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="27" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
+            <state line="28" column="25" selection-start="2698" selection-end="2698" vertical-scroll-proportion="0.85903084">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumberRange.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="NumberRange.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NumberRange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="26" selection-start="351" selection-end="351" vertical-scroll-proportion="0.34236804">
+            <state line="16" column="26" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -451,19 +451,19 @@
         <state line="11" column="40" selection-start="404" selection-end="404" vertical-scroll-proportion="-6.25" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumberRangeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="27" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/NumberRange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="26" selection-start="351" selection-end="351" vertical-scroll-proportion="0.34236804">
+        <state line="16" column="26" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumberRangeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="25" selection-start="2698" selection-end="2698" vertical-scroll-proportion="0.85903084">
+          <folding />
         </state>
       </provider>
     </entry>

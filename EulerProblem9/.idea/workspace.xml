@@ -73,19 +73,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PythagoreanTriplet.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="PythagoreanTriplet.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PythagoreanTriplet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="12" selection-start="886" selection-end="886" vertical-scroll-proportion="0.6401138">
+            <state line="30" column="12" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PythagoreanTripletTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="PythagoreanTripletTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PythagoreanTripletTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="29" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
+            <state line="9" column="36" selection-start="207" selection-end="215" vertical-scroll-proportion="0.14935988">
               <folding />
             </state>
           </provider>
@@ -449,16 +449,16 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/PythagoreanTripletTest.java">
+    <entry file="file://$PROJECT_DIR$/src/PythagoreanTriplet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="29" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
+        <state line="30" column="12" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PythagoreanTriplet.java">
+    <entry file="file://$PROJECT_DIR$/src/PythagoreanTripletTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="12" selection-start="886" selection-end="886" vertical-scroll-proportion="0.6401138">
+        <state line="9" column="36" selection-start="207" selection-end="215" vertical-scroll-proportion="0.14935988">
           <folding />
         </state>
       </provider>
